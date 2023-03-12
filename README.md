@@ -1,7 +1,6 @@
 # Scott Andrew LePera
 
 Front-end Engineer, Seattle, WA
-scottandrew@gmail.com
 
 Over 25 years of experience building delightful things for the web and more.
 
