@@ -20,10 +20,10 @@ Alexa Personality delights Alexa users with fun and engaging audiovisual experie
 
 #### Notable work
 
-* Designed and implemented tools for managing audio and image assets, boosting productivity by reducing developer time to zero
+* Designed and built tools for managing audio and image assets, boosting productivity by reducing developer time to zero
 * Built responsive visual experiences for Amazon Echo Show devices, delighting thousands of Alexa customers
 * Technical contributions to enable Alexa Themes: decorative audio and visual responses for holidays, sports events, sponsored entertainment content, and more
-* Designed and implemented authoring tools for rotating content on Amazon Echo Show devices
+* Designed and built authoring tools for rotating content on Amazon Echo Show devices
 
 ### Front-end Engineer, IMDb (2008 - 2021)
 
@@ -32,14 +32,15 @@ IMDb is the world's most popular and authoritative source for information on mov
 #### Notable work
 
 * Technical contributions to IMDb's NextJS web stack, improving the experience for millions of IMDb visitors
-* Led design and integration of Branch.io deep linking technology with the IMDb mobile website
+* Led the integration of Branch.io deep linking technology with the IMDb mobile website to deliver a revenue-generating solution while significantly reducing operational costs
+* Technical contributions to IMDb's ad platform, enabling rich interactive ad products generating millions in revenue each year
 * Technical contributions to the IMDb UI component library with support for responsive design, progressive enhancement, and accessibility
-* Designed and implemented the Box Office Mojo front-end component library for a responsive, mobile-friendly redesign
-* Designed and implemented IMDb's first mobile app deep linking product, exponentially increasing installs of IMDb mobile apps
-* Designed multi-client framework for rich email delivery to millions of IMDb customers
+* Designed and built the Box Office Mojo component library enabling a new responsive, mobile-friendly redesign
+* Designed and built IMDb's first mobile app deep linking product, exponentially increasing installs of IMDb mobile apps
+* Designed a multi-client framework for rich email delivery to millions of IMDb customers
 * Technical contributions to the first IMDb app for iPhone
-* Designed and implemented the IMDb mobile message boards, improving the mobile experience for IMDb's passionate online community
-* Designed and implemented the IMDb Video Search page
+* Designed and built the IMDb mobile message boards, improving the mobile experience for IMDb's passionate online community
+* Designed and built the IMDb Video Search page, enabling vistors to easily search thousands of clips and trailers
 
 ### Web Development Engineer, Amazon Advertising (2006 - 2008)
 
@@ -47,9 +48,9 @@ Amazon Advertising helps brands design ad experiences that delight customers and
 
 #### Notable work
 
-* Implemented the first IAB-standard ad placements on the Amazon website
-* Implemented Amazon's first leaderboard ad on the Amazon retail homepage
-* Implemented Amazon's first full-page advertising campaign for Lexus vehicles
+* Built the first IAB-standard ad placements on the Amazon website
+* Built Amazon's first leaderboard ad on the Amazon retail homepage
+* Built Amazon's first full-page advertising campaign for Lexus vehicles
 
 ### Web Development Engineer, Amazon Associates Program (2003 - 2005)
 
@@ -57,7 +58,7 @@ The Amazon Associates Program helps content creators, publishers and bloggers mo
 
 #### Notable work
 
-* Designed and implemented customer workflows to enable thousands of affiliates to onboard quickly and start earning
+* Designed and built customer workflows to enable thousands of affiliates to onboard quickly and start earning
 * Created cross-browser ad placement frameworks for easy affiliate link building
 * Migrated Amazon's legacy web platform to a modernized and more performant Amazon system
 
@@ -67,9 +68,9 @@ KnowNow built real-time, device-agnostic publish-and-subscribe data services usi
 
 #### Notable work
 
-* Designed and implemented web-based real-time chat clients
-* Implemented real-time server activity monitoring apps
-* Designed and implemented Excel spreadsheet integrations for business customers
+* Designed and built web-based real-time chat clients
+* Built real-time server activity monitoring apps
+* Designed and built Excel spreadsheet integrations for business customers
 
 ### Web Developer, Advance Local (cleveland.com) (1998 - 2000)
 
@@ -78,8 +79,8 @@ Advance Local is dedicated to local journalism that improves the lives of millio
 #### Notable work
 
 * Led integration of Sun Newspapers content into the Cleveland Live website following the acquisition of Sun by the Cleveland Plain Dealer
-* Designed and implemented of special editorial sections: holidays, teen interests, sports, and more
-* Designed and implemented of interactive projects using Adobe Flash and dynamic HTML
+* Designed and built special editorial sections: holidays, teen interests, sports, and more
+* Designed and built interactive projects using Adobe Flash and dynamic HTML
 
 ### Other work
 
